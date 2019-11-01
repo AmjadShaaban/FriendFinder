@@ -1,0 +1,23 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "FriendFinder, Node and Express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmjadShaaban/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmjadShaaban/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/AmjadShaaban/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
